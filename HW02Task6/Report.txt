@@ -1,0 +1,13 @@
+1. Equal Masses with Different Initial Velocities:
+Input: M1 = M2 = M3 = 10 kg, u1 = 5 m/s, u2 = 3 m/s, u3 = 2 m/s
+Despite identical masses, M1's displacement varies based on its initial velocity. A higher initial velocity for M1 results in it covering a greater distance compared to M2 and M3. The maximum distance traveled by M1 (D_max) is significantly influenced by its initial velocity.
+
+
+2. Masses with Large Discrepancy in Mass and Initial Velocities:
+Input: M1 = 20 kg, M2 = 5 kg, M3 = 2 kg, u1 = 3 m/s, u2 = 7 m/s, u3 = 1 m/s
+M2, being the lightest, experiences rapid acceleration, covering significant ground in a short period. However, despite M1's higher initial velocity, its larger mass causes its acceleration to be slower compared to M2 and M3. The maximum distance traveled by M1 (D_max) is notably affected by both its mass and initial velocity.
+
+
+3. Extreme Initial Velocities:
+Input: M1 = 5 kg, M2 = 8 kg, M3 = 3 kg, u1 = 10 m/s, u2 = 15 m/s, u3 = 20 m/s
+M3, with the highest initial velocity, exhibits rapid movement, prompting M1 and M2 to accelerate in response. This scenario highlights the complex interplay between masses and initial velocities in determining the overall motion of the system. The maximum distance traveled by M1 (D_max) showcases the dynamic nature of the system under extreme initial conditions.
